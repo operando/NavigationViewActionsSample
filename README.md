@@ -1,5 +1,11 @@
 ## NavigationViewActions Sample
 
+run `connectedAndroidTest` task.
+
+```gralde
+$ gradle connectedAndroidTest
+```
+
 `NavigationViewActions.navigateTo(menu_id)`
 
 ```java
