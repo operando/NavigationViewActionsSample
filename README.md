@@ -33,3 +33,7 @@ public class MainActivityTest {
     }
 }
 ```
+
+## Images
+
+![run.git](./art/test_run.gif)
